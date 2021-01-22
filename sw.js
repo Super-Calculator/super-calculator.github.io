@@ -1,7 +1,7 @@
 const staticCacheName = "Super Calculator";
 const assets = [
   "83a9787d4cb6f3b7632b4ddfebf74367.wav",
-  "83c36d806dc92327b9e7049a565c6bff.wav',
+  "83c36d806dc92327b9e7049a565c6bff.wav",
   "f4e72630956bfb140ed09d1ce0106c31.svg",
   "cd21514d0531fdffb22204e0ec5ed84a.svg",
   "/",
