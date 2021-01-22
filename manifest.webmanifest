@@ -1,0 +1,9 @@
+{
+  "name": "Super Calculator",
+  "short_name": "Super Calculator",
+  "theme_color": "blue",
+  "background_color": "white",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/"
+}
