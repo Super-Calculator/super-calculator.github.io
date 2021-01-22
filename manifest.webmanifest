@@ -5,5 +5,9 @@
   "background_color": "white",
   "display": "minimal-ui",
   "scope": "/",
-  "start_url": "/"
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/f4e72630956bfb140ed09d1ce0106c31.svg",
+      "sizes": "104.61x121.49"
 }
